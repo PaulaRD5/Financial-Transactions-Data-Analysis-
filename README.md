@@ -31,16 +31,9 @@ The project focuses on:
 
 ## Project Structure
 bank-transactions-data-analysis:
---> data:
------> raw/
------> processed/
---> notebooks/
------> 02_financial_analysis.ipynb
--->  src/
------> cleaning.py
------> business_rules.py
------> validation.py
------> pipeline.py
+--> data (raw/, processed/)
+--> notebooks/( 02_financial_analysis.ipynb)
+-->  src/ (cleaning.py, business_rules.py,  validation.py,  pipeline.py)
 -->  requirements.txt
 -->  README.md
 
